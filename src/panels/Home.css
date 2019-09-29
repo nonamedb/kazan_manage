@@ -1,0 +1,24 @@
+.name {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+}
+
+.create {
+    width: 150px;
+    margin-top: 30px;
+}
+
+.ava {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
